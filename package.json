@@ -1,0 +1,9 @@
+{
+  "name":"Travel Application",
+  "author":"Kiruthiga",
+  "Description":"Travel Application is created using MERN Stack",
+  "keywords":"Mongo DB,Node JS,React JS,Express JS",
+  "scripts":{
+    "start": "node server.js"
+  }
+} 
